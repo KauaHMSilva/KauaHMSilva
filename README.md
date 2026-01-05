@@ -105,26 +105,4 @@ Me chamo Kauã Henrique Martins da Silva, tenho 21 anos e sou natural de Avaré-
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KauaHMSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<p>
-
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHMSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-<p>
