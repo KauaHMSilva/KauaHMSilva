@@ -1,7 +1,7 @@
 #  Kauã Silva
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Analista de dados`**
 
-Me chamo Kauã Henrique Martins da Silva, tenho 21 anos e sou natural de Avaré-SP. Concluí o ensino médio na ETEC, com o curso técnico em Programação de jogos digitais. Atualmente, estou cursando Ciencia da computação na Anhembi. Tenho interesse por tecnologia, programação e IA.
+Me chamo Kauã Henrique Martins da Silva, tenho 22 anos e sou natural de Avaré-SP. Concluí o ensino médio na ETEC, com o curso técnico em Programação de jogos digitais. Atualmente, estou cursando Ciencia da computação na USC (Universidade Sagrado Coração). Tenho interesse por tecnologia, programação, dados e IA.
 
  </a> 
     <a href="https://github.com/KauaHMSilva?tab=repositories&sort=stargazers">
